@@ -1,0 +1,854 @@
+@media (max-width: 1024px) {
+  #section .section--block__h--sub h1 {
+    padding: 20px 65px 20px 40px;
+  }
+  #hero .hero--parentsBlc__zero {
+    padding: 0 5px;
+  }
+  #hero .hero--parentsBlc__zero--block {
+    width: 176px;
+  }
+  #hero .hero--parentsBlc__zero button {
+    padding: 15px 25px;
+  }
+  #inputs .inputs--order__name input {
+    padding: 10px 24px;
+  }
+  #inputs .inputs--order__question {
+    width: 420px;
+  }
+  #inputs .inputs--order h1 {
+    width: 440px;
+  }
+  #inputs .inputs--order__checkbox p {
+    width: 400px;
+  }
+  .block h5 {
+    width: 300px;
+    font-size: 12px;
+  }
+  #inputs .inputs img {
+    margin-left: 3px;
+    width: 525px;
+  }
+  #section .section--block__h--sub h1 {
+    font-size: 26px;
+  }
+  .block {
+    width: 375px;
+  }
+  .sub {
+    width: 380px;
+    margin-left: -20px;
+  }
+}
+@media (max-width: 992px) {
+  #hero .hero--parentsBlc__zero--block__in h5 {
+    width: 145px;
+  }
+  #inputs .inputs img {
+    width: 495px;
+  }
+  #hero .hero--parentsBlc__zero--block h2 {
+    width: 150px;
+  }
+  #hero .hero--parentsBlc__zero {
+    padding: 0 4px;
+  }
+  #hero .hero--parentsBlc__zero button {
+    margin: 20px 28px;
+  }
+  #section .section--block__h--sub h1 {
+    padding: 20px 60px 20px 40px;
+  }
+  .block h5 {
+    width: 300px;
+    font-size: 12px;
+  }
+}
+@media (max-width: 768px) {
+  #header .header img {
+    width: 200px;
+    padding: 20px 0;
+  }
+  #header .header--menus a {
+    font-size: 14px;
+    margin: 0 5px;
+  }
+  #header .header button {
+    padding: 12px 27px;
+  }
+  #section .section--growUp img {
+    width: 300px;
+  }
+  #section .section--growUp__tittle h1 {
+    width: 324px;
+    font-size: 33px;
+  }
+  #section .section--growUp__tittle span {
+    font-size: 30px;
+  }
+  #section .section--growUp__tittle h4 {
+    font-size: 12px;
+    line-height: 23px;
+    width: 376px;
+  }
+  #section .section--growUp__tittle--buttons button {
+    padding: 10px 25px;
+  }
+  #section .section--block__h h1 {
+    padding: 0 0 19px 28px;
+    font-size: 33px;
+  }
+  #hero .hero--parentsBlc__zero--block {
+    width: 130px;
+  }
+  #hero .hero--parentsBlc__zero--block__in h5 {
+    width: 100px;
+    font-size: 13px;
+  }
+  #hero .hero--parentsBlc__zero--block span {
+    font-size: 19px;
+  }
+  #hero .hero--parentsBlc__zero--block h2 {
+    font-size: 11px;
+    width: 120px;
+    padding: 0 0 10px 10px;
+  }
+  #hero .hero--parentsBlc__zero button {
+    margin: 16px 7px;
+  }
+  #inputs .inputs--order h1 {
+    width: 368px;
+    font-size: 28px;
+    line-height: 35px;
+  }
+  #inputs .inputs--order h5 {
+    font-size: 11px;
+    width: 330px;
+  }
+  #inputs .inputs--order__name input {
+    padding: 8px 4px;
+  }
+  #inputs .inputs--order__question {
+    padding: 18px 0 53px 15px;
+    width: 340px;
+  }
+  #inputs .inputs--order__checkbox p {
+    width: 326px;
+    font-size: 11px;
+  }
+  #inputs .inputs img {
+    width: 352px;
+  }
+  #inputs .inputs--order {
+    height: 448px;
+    padding: 52px 0 0 0;
+  }
+  .block {
+    width: 272px;
+  }
+  .block h5 {
+    width: 236px;
+    font-size: 10px;
+    padding: 10px 0;
+  }
+  .sub {
+    width: 272px;
+    margin-left: -14px;
+  }
+  .tittle span {
+    font-size: 10px;
+  }
+  #section .section--block__h h1 {
+    padding: 0 17px 19px 7px;
+    font-size: 33px;
+  }
+}
+@media (max-width: 576px) {
+  #header .header img {
+    width: 135px;
+    padding: 20px 0;
+  }
+  #header .header--menus a {
+    font-size: 12px;
+    margin: 0 5px;
+  }
+  #header .header button {
+    padding: 12px 10px;
+    font-size: 11px;
+  }
+  #section .section--growUp__tittle h1 {
+    width: 234px;
+    line-height: 38px;
+    font-size: 23px;
+  }
+  #section .section--growUp__tittle span {
+    font-size: 21px;
+  }
+  #section .section--growUp__tittle h4 {
+    font-size: 10px;
+    line-height: 22px;
+    width: 230px;
+  }
+  #section .section--growUp__tittle--buttons button {
+    padding: 12px 35px;
+    margin: 6px 0;
+    font-size: 13px;
+  }
+  #section .section--block__h h1 {
+    padding: 0 17px 19px 7px;
+    font-size: 24px;
+  }
+  #hero .hero--parentsBlc {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #hero .hero--parentsBlc__zero--block {
+    width: 200px;
+    height: 300px;
+  }
+  #hero .hero--parentsBlc__zero {
+    padding: 0 15px;
+  }
+  #hero .hero--parentsBlc__zero button {
+    margin: 16px 14px 18px 40px;
+  }
+  #inputs .inputs--order h5 {
+    font-size: 8px;
+    width: 185px;
+  }
+  #inputs .inputs--order__name input {
+    padding: 8px 2px;
+    font-size: 11px;
+  }
+  #inputs .inputs--order__question {
+    padding: 12px 0 49px 15px;
+    width: 173px;
+  }
+  #inputs .inputs--order__name {
+    width: 167px;
+    display: flex;
+    flex-direction: column;
+  }
+  #inputs .inputs--order h1 {
+    width: 195px;
+    font-size: 16px;
+    line-height: 35px;
+  }
+  #inputs .inputs--order {
+    height: 394px;
+    padding: 73px 0 0 0;
+  }
+  #inputs .inputs--order__checkbox p {
+    width: 153px;
+    font-size: 9px;
+  }
+  #inputs .inputs--order__name input {
+    padding: 8px 2px;
+    font-size: 11px;
+    margin: 7px 16px;
+    width: 138px;
+  }
+  #inputs .inputs img {
+    width: 334px;
+  }
+  .block h5 {
+    width: 157px;
+    font-size: 8px;
+    padding: 6px 0;
+  }
+  .block {
+    width: 187px;
+  }
+  .sub {
+    width: 187px;
+    margin-left: -9px;
+    overflow: hidden;
+  }
+  .container h3 {
+    font-size: 17px;
+  }
+  .scorp img {
+    width: 68px;
+    margin: 10px;
+  }
+  .tittle span {
+    font-size: 8px;
+  }
+  .fr {
+    padding: 40px 0;
+    width: 140px;
+  }
+  #footer .footer h4 {
+    font-weight: 400;
+    width: 120px;
+    font-size: 13px;
+  }
+  #footer .footer--sensei img {
+    width: 194px;
+  }
+  #footer .footer--text p {
+    font-size: 14px;
+  }
+  #footer .footer--text {
+    width: 80px;
+    margin-top: 11px;
+  }
+  #footer .footer--text2 {
+    width: 190px;
+    margin-top: 10px;
+  }
+  #footer .footer {
+    width: 545px;
+  }
+  #section .section--block__h h1 {
+    font-size: 21px;
+  }
+}
+@media (max-width: 450px) {
+  .burger {
+    display: block;
+  }
+  #header .header--menus {
+    display: none;
+  }
+  #header {
+    background: black;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+  }
+  #section .section--growUp {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  #section .section--growUp__tittle h1 {
+    width: 417px;
+    line-height: 38px;
+    font-size: 51px;
+  }
+  #section .section--growUp__tittle span {
+    font-size: 37px;
+  }
+  #section .section--growUp__tittle h4 {
+    font-size: 12px;
+    line-height: 22px;
+    width: 400px;
+  }
+  #section .section--growUp__tittle--buttons button {
+    padding: 12px 30px;
+    margin: 6px 0;
+    font-size: 13px;
+  }
+  #section .section {
+    padding: 55px 0 0 0;
+  }
+  #section .section--growUp__tittle {
+    display: flex;
+    height: 286px;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  #section .section--block__h h1 {
+    font-size: 16px;
+  }
+  #section .section--block__h h1 {
+    font-size: 15px;
+    padding: 10px 8px;
+  }
+  #hero .hero--parentsBlc__zero--block {
+    width: 170px;
+  }
+  #hero .hero--parentsBlc__zero button {
+    margin: 16px 14px 18px 20px;
+  }
+  #inputs .inputs {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #inputs .inputs--order h1 {
+    width: 400px;
+    font-size: 21px;
+    line-height: 35px;
+  }
+  #inputs .inputs--order h5 {
+    font-size: 13px;
+    width: 380px;
+  }
+  #inputs .inputs--order__name input {
+    padding: 8px 2px;
+    font-size: 11px;
+    margin: 7px 25px;
+    width: 337px;
+  }
+  #inputs .inputs--order__name input:nth-child(2) {
+    margin: 0 0 0 25px;
+  }
+  #inputs .inputs--order__question {
+    padding: 12px 0 49px 15px;
+    width: 373px;
+  }
+  #inputs .inputs--order__checkbox p {
+    width: 358px;
+    font-size: 13px;
+  }
+  #inputs .inputs--order {
+    height: 394px;
+    padding: 73px 0 0 0;
+  }
+  #inputs .inputs--order button {
+    padding: 15px 193px;
+  }
+  #inputs .inputs img {
+    height: 339px;
+    width: 384px;
+  }
+  #footer .footer--sensei img {
+    width: 120px;
+  }
+  #footer .footer h4 {
+    font-weight: 400;
+    width: 120px;
+    font-size: 11px;
+  }
+  #footer .footer--sensei button {
+    margin: 15px 0;
+    background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
+    border-radius: 250px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 10px;
+    padding: 13px 21px;
+  }
+  #footer .footer--text p {
+    font-size: 11px;
+  }
+  #footer .footer--text h5 {
+    font-size: 9px;
+    font-weight: 400;
+    color: #333333;
+    line-height: 23px;
+  }
+  .footer--text2 p {
+    display: block;
+    font-size: 11px;
+  }
+  #footer .footer--text2 h5 {
+    font-size: 8px;
+    font-weight: 400;
+    width: 103px;
+    color: #333333;
+    line-height: 25px;
+  }
+  #footer .footer--text2 {
+    width: 110px;
+    margin-top: 10px;
+  }
+  #footer .footer {
+    width: 423px;
+  }
+}
+@media (max-width: 414px) {
+  #hero .hero--parentsBlc__zero--block h3 {
+    width: 150px;
+  }
+  #hero .hero--parentsBlc__zero--block {
+    width: 150px;
+    height: 327px;
+  }
+  #hero .hero--parentsBlc__zero {
+    padding: 0 7px;
+  }
+  .container h3 {
+    font-size: 9px;
+    width: 84px;
+  }
+  #section .section--growUp__tittle h1 {
+    text-align: center;
+    width: 364px;
+    font-size: 34px;
+  }
+  #section .section--growUp__tittle span {
+    font-size: 34px;
+  }
+  #section .section--growUp__tittle h4 {
+    font-size: 11px;
+    line-height: 18px;
+    width: 365px;
+    text-align: center;
+  }
+  #section .section--growUp__tittle--buttons button {
+    padding: 12px 29px;
+    margin: 6px 0;
+    font-size: 11px;
+  }
+  #section .section--growUp__tittle {
+    height: 237px;
+  }
+  #section .section {
+    padding: 40px 0 0 0;
+  }
+  #section .section--block__h {
+    padding: 20px 25px;
+  }
+  #inputs .inputs--order h1 {
+    width: 373px;
+    font-size: 20px;
+    line-height: 15px;
+  }
+  #inputs .inputs--order__name input {
+    padding: 8px 2px;
+    font-size: 11px;
+    margin: 7px 25px;
+    width: 295px;
+  }
+  #inputs .inputs--order__question {
+    padding: 12px 0 33px 15px;
+    width: 353px;
+  }
+  #inputs .inputs--order__checkbox p {
+    width: 338px;
+    font-size: 12px;
+  }
+  #inputs .inputs--order button {
+    padding: 15px 185px;
+  }
+  #inputs .inputs img {
+    height: 311px;
+    width: 363px;
+  }
+  #inputs .inputs--order {
+    height: 359px;
+    padding: 43px 0 0 0;
+  }
+  .swiper h1 {
+    font-size: 29px;
+    font-weight: 500;
+    margin: 19px 28px;
+  }
+  .block {
+    margin: 14px;
+    width: 270px;
+    height: 288px;
+  }
+  .road {
+    margin: 0 auto;
+    width: 106px;
+    display: block;
+  }
+  .block h5 {
+    width: 243px;
+    font-size: 6px;
+    padding: 6px 0;
+  }
+  .sub {
+    width: 270px;
+    padding: 6px 0 27px 0;
+    margin-left: -13px;
+    overflow: hidden;
+    height: 38px;
+  }
+  #footer .footer {
+    width: 392px;
+    padding: 50px 0;
+  }
+  .swiper-button-next:after, .swiper-button-prev:after {
+    margin-bottom: 102px;
+  }
+  .swiper-slide {
+    flex-shrink: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+    transition-property: transform;
+  }
+}
+@media (max-width: 400px) {
+  #footer .footer {
+    width: 380px;
+    padding: 50px 0;
+  }
+}
+@media (max-width: 380px) {
+  #section .section--growUp__tittle h1 {
+    width: 350px;
+    text-align: center;
+    line-height: 38px;
+    font-size: 37px;
+  }
+  #section .section--growUp__tittle span {
+    font-size: 30px;
+  }
+  #section .section--growUp__tittle h4 {
+    font-size: 10px;
+    text-align: center;
+    line-height: 22px;
+    width: 325px;
+  }
+  #section .section--growUp__tittle--buttons button {
+    padding: 11px 27px;
+    font-size: 11px;
+  }
+  #section .section--growUp__tittle {
+    display: flex;
+    height: 240px;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  #section .section--block__h {
+    padding: 20px 20px;
+  }
+  #hero .hero--parentsBlc__zero--block {
+    width: 150px;
+    height: 327px;
+  }
+  #hero .hero--parentsBlc__zero {
+    padding: 0 7px;
+  }
+  #inputs .inputs--order h1 {
+    width: 360px;
+    font-size: 18px;
+  }
+  #inputs .inputs--order h5 {
+    font-size: 11px;
+    width: 345px;
+  }
+  #inputs .inputs--order__name input {
+    padding: 8px 2px;
+    font-size: 11px;
+    margin: 7px 25px;
+    width: 272px;
+  }
+  #inputs .inputs--order__question {
+    padding: 12px 0 49px 15px;
+    width: 324px;
+  }
+  #inputs .inputs--order__checkbox p {
+    width: 309px;
+    font-size: 11px;
+  }
+  #inputs .inputs--order button {
+    padding: 15px 170px;
+  }
+  #inputs .inputs--order {
+    height: 334px;
+    padding: 15px 0 0 0;
+  }
+  #inputs .inputs img {
+    height: 293px;
+    width: 331px;
+  }
+  .swiper h1 {
+    font-size: 29px;
+    font-weight: 500;
+    margin: 19px 28px;
+  }
+  .swiper-slide {
+    flex-shrink: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+    transition-property: transform;
+  }
+  .block {
+    margin: 14px;
+    width: 270px;
+    height: 288px;
+  }
+  .road {
+    margin: 0 auto;
+    width: 106px;
+    display: block;
+  }
+  .block h5 {
+    width: 243px;
+    font-size: 6px;
+    padding: 6px 0;
+  }
+  .sub {
+    width: 270px;
+    padding: 6px 0 27px 0;
+    margin-left: -13px;
+    overflow: hidden;
+    height: 38px;
+  }
+  .container h3 {
+    font-size: 9px;
+    width: 84px;
+  }
+  .swiper-button-next:after, .swiper-button-prev:after {
+    margin-bottom: 102px;
+  }
+  #hero .hero--parentsBlc__zero--block h3 {
+    width: 150px;
+  }
+  #footer .footer {
+    width: 360px;
+    padding: 40px 0;
+  }
+}
+@media (max-width: 376px) {
+  #footer .footer {
+    width: 356px;
+    padding: 40px 0;
+  }
+  #inputs .inputs--order h1 {
+    width: 353px;
+  }
+}
+@media (max-width: 360px) {
+  #footer .footer {
+    width: 341px;
+    padding: 40px 0;
+  }
+  #inputs .inputs--order button {
+    padding: 15px 165px;
+  }
+  #inputs .inputs--order__checkbox p {
+    width: 302px;
+  }
+  #inputs .inputs--order__question {
+    padding: 12px 0 49px 15px;
+    width: 316px;
+  }
+  #inputs .inputs--order h1 {
+    width: 340px;
+  }
+  #inputs .inputs--order h5 {
+    font-size: 11px;
+    width: 340px;
+  }
+}
+@media (max-width: 320px) {
+  #header .header img {
+    width: 100px;
+  }
+  #header .header button {
+    padding: 10px 18px;
+    font-size: 9px;
+  }
+  #section .section--growUp__tittle h1 {
+    width: 255px;
+    font-size: 26px;
+  }
+  #section .section--growUp__tittle span {
+    font-size: 22px;
+  }
+  #section .section--growUp__tittle h4 {
+    font-size: 8px;
+    line-height: 21px;
+    width: 273px;
+  }
+  #section .section--growUp__tittle--buttons button {
+    padding: 10px 21px;
+    font-size: 9px;
+  }
+  #section .section--growUp__tittle {
+    height: 220px;
+  }
+  #section .section--block__h h1 {
+    font-size: 13px;
+  }
+  #hero .hero h1 {
+    font-weight: 300;
+    font-size: 30px;
+    padding: 60px 0 40px 0;
+  }
+  #hero .hero--parentsBlc__zero--block {
+    width: 130px;
+    height: 327px;
+  }
+  #hero .hero--parentsBlc__zero--block h3 {
+    width: 130px;
+    font-size: 14px;
+  }
+  #hero .hero--parentsBlc__zero--block__in h5 {
+    font-size: 11px;
+  }
+  #inputs .inputs--order h1 {
+    width: 300px;
+    font-size: 15px;
+  }
+  #inputs .inputs--order h5 {
+    font-size: 10px;
+    width: 299px;
+  }
+  #inputs .inputs--order__name input {
+    padding: 9px 2px;
+    font-size: 11px;
+    margin: 5px 25px;
+    width: 224px;
+  }
+  #inputs .inputs--order__checkbox p {
+    width: 257px;
+    font-size: 9px;
+  }
+  #inputs .inputs--order button {
+    padding: 10px 140px;
+  }
+  #inputs .inputs--order {
+    height: 282px;
+    padding: 15px 0 15px 0;
+  }
+  #inputs .inputs img {
+    height: 254px;
+    width: 281px;
+  }
+  .swiper h1 {
+    font-size: 27px;
+    font-weight: 500;
+    margin: 13px 25px;
+  }
+  #inputs .inputs--order__question {
+    padding: 12px 0 45px 15px;
+    width: 270px;
+  }
+  #hero .hero--parentsBlc__zero button {
+    padding: 9px 23px;
+    margin: 16px 14px 18px 10px;
+    font-size: 11px;
+  }
+  #footer .footer--sensei img {
+    width: 110px;
+  }
+  #footer .footer h4 {
+    width: 107px;
+    font-size: 10px;
+  }
+  #footer .footer--sensei button {
+    margin: 10px 0;
+    padding: 11px 15px;
+  }
+  #footer .footer--text2 h5 {
+    font-size: 6px;
+    width: 79px;
+    line-height: 19px;
+  }
+  #footer .footer--text h5 {
+    font-size: 8px;
+    line-height: 21px;
+  }
+  #footer .footer--text {
+    width: 76px;
+    margin-top: 2px;
+  }
+  #footer .footer--text2 {
+    width: 78px;
+    margin-top: 1px;
+  }
+  #footer .footer {
+    width: 304px;
+    padding: 40px 0;
+  }
+  .finish {
+    font-size: 9px;
+    padding: 8px 0;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */

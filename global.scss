@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+body{
+  background: #F7F6FF;
+  font-family: 'Manrope',sans-serif;
+  font-style: normal;
+}
+a{
+  text-decoration: none;
+}
+@mixin flex{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@mixin btn{
+  background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
+  border-radius: 250px;
+  border: none;
+  color: #FFFFFF;
+  padding: 15px 35px;
+}
+@mixin text{
+  font-weight: 400;
+  font-size: 16px;
+  color: #333333;
+  width: 500px;
+}
+@mixin h{
+  font-weight: 600;
+  font-size: 39px;
+  background: linear-gradient(115.11deg, #FFBC2A 16.38%, #FF4F39 95.45%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent
+}
+@mixin font{
+  font-family: 'Manrope',sans-serif;
+  font-style: normal;
+}
+@mixin container{
+  width: 90%;
+  margin: 0 auto;
+}
